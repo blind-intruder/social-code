@@ -21,7 +21,7 @@
 * Open the mobile application project in android studio
 * Change the host in all java files with the host on which the web application is running
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://github.com/blind-intruder/social-code/blob/main/project-demo.webm?raw=true)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/nEDegJ_EuRc)
 
 # Features
 * Create profile
