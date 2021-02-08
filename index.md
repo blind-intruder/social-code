@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Social Code
+> A simple social media web application with messenger android application. Web application backend/API is developed in PHP8 with database MySQL. While the android application is developed in JAVA.
 
-You can use the [editor on GitHub](https://github.com/blind-intruder/social-code/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Requirements
+* Xampp/Lampp
+* PHP8
+* MySQL database
+* Android Studio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Installation
 
-### Markdown
+## Web Application
+* Clone the web application folder in htdocs directory of Xampp/Lampp
+* Open Phpmyadmin and create a new database named **fyp** and import the file **data.sql** in this database
+* The database connection is set for default credentials of MySQL i.e: $servername = "localhost"; $username = "root"; $password = "";
+* If you don't have the default credentials of MySQL, you can configure it in api/db-con/db.php
+* Now you are good to go!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Mobile Application
+* Unzip the mobile-application.zip file
+* Open the mobile application project in android studio
+* Change the host in all java files with the host on which the web application is running
 
-```markdown
-Syntax highlighted code block
+# Features
 
-# Header 1
-## Header 2
-### Header 3
+[![Watch the video](https://raw.githubusercontent.com/blind-intruder/social-code/main/fake.png)](https://www.youtube.com/watch?v=nEDegJ_EuRc)
 
-- Bulleted
-- List
+* Create profile
+* Create posts with multimedia(Photos/videos)
+* Like and comment on posts
+* Add Friends
+* Update profile
+* Add status
+* Messenger
+* Search Peoples, Posts
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blind-intruder/social-code/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Developers
+* **M. Farhan Khursheed  blindintruder00@gmail.com**
+* **M. Faizan Ahmed  faizanwingle@gmail.com**
