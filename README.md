@@ -17,8 +17,9 @@
 * Now you are good to go!
 
 ## Mobile Application
+* Unzip the mobile-application.zip file
 * Open the mobile application project in android studio
-* Change the host in all files with the host on which the web application is running
+* Change the host in all java files with the host on which the web application is running
 
 # Features
 * Create profile
