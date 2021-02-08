@@ -21,9 +21,10 @@
 * Open the mobile application project in android studio
 * Change the host in all java files with the host on which the web application is running
 
+# Features
+
 [![Watch the video](https://raw.githubusercontent.com/blind-intruder/social-code/main/fake.png)](https://www.youtube.com/watch?v=nEDegJ_EuRc)
 
-# Features
 * Create profile
 * Create posts with multimedia(Photos/videos)
 * Like and comment on posts
