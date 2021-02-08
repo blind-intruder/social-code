@@ -21,7 +21,7 @@
 * Open the mobile application project in android studio
 * Change the host in all java files with the host on which the web application is running
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/nEDegJ_EuRc)
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=nEDegJ_EuRc)
 
 # Features
 * Create profile
