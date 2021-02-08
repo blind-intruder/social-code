@@ -1,0 +1,19 @@
+body{
+	font-family: sans-serif!important;
+}
+.btn-success{
+    background-color: #05cd51!important;
+}
+a{
+	color: #05cd51!important;
+}
+.nav-link.active{
+	color: #fff!important;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  body{
+	font-family: sans-serif!important;
+	}
+}
