@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <title>picture</title>
+        <link rel="stylesheet" href="../assets/css/croppie.min.css" />
+        <link rel="stylesheet" href="../assets/css/sweet.css" />
+        <link rel="stylesheet" href="../assets/css/boot.css">
+        <script type="text/javascript" src="../assets/js/jquery-modified.min.js"></script>
+        <link rel="stylesheet" href="./dpupload.css" />
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12" style="text-align: center;">
+                    <div class="upload-demo-wrap">
+                        <div id="upload-demo"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!--upload row-->
+            <div class="row" style="padding-top: 30px;">
+                <div class="col-sm-12" style="text-align: center;">
+                    <div class="actions">
+                        <a class="btn file-btn">
+                            <input type="file" id="upload" value="Choose a file" accept="image/*" />
+                        </a>
+                        <br /><br />
+                        <button class="upload-result btn btn-success">Save</button>
+                    </div>
+                </div>
+            </div>
+            <!--upload row-->
+        </div>
+        <div class="demo-wrap upload-demo">
+        </div>
+        <script src="../assets/js/sweet.js"></script>
+        <script src="../assets/js/croppie.js"></script>
+        <script type="text/javascript" src="../assets/js/popper.js" ></script>
+        <script type="text/javascript" src="../assets/js/boot.js"></script>
+        <script src="./dpupload.js"></script>
+        <script>
+            Demo.init();
+        </script>
+    </body>
+</html>
